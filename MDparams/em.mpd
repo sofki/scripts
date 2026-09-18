@@ -1,0 +1,8 @@
+integrator = steep
+nsteps = 1000
+emtol = 200
+emstep = 0.001
+nstlist = 10
+pbc = xyz
+coulombtype = PME
+vdw-type = Cut-off
